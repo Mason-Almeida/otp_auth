@@ -1,0 +1,27 @@
+{
+  "name": "otp_auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mason-Almeida/otp_auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mason-Almeida/otp_auth/issues"
+  },
+  "homepage": "https://github.com/Mason-Almeida/otp_auth#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.2.9",
+    "morgan": "^1.10.0"
+  }
+}
